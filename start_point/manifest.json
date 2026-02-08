@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/d_unittest:c125c91",
-  "display_name": "D, unittest",
+  "image_name": "ghcr.io/cyber-dojo-languages/d_unittest:8cbc812",
+  "display_name": "D 13.3.0, unittest",
   "visible_filenames": [
     "hiker.d",
     "hiker_test.d",
