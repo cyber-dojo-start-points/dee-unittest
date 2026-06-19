@@ -1,6 +1,14 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/d_unittest:8cbc812",
   "display_name": "D 13.3.0, unittest",
+  "language": [
+    "D",
+    "13.3.0"
+  ],
+  "test_framework": [
+    "unittest",
+    ""
+  ],
   "visible_filenames": [
     "hiker.d",
     "hiker_test.d",
