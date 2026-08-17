@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/d_unittest:1c1d200",
+  "image_name": "ghcr.io/cyber-dojo-languages/d_unittest:c55a8d2",
   "display_name": "D 13.3.0, unittest",
   "language": [
     "D",
